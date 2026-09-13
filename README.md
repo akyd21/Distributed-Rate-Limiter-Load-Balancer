@@ -194,18 +194,7 @@ This allows sensitive APIs to have stricter limits.
 
 ---
 
-## 4. Per Organization
 
-Requests can be limited at the organization/company level.
-
-```text
-Organization A → 10,000 requests/hour
-Organization B → 5,000 requests/hour
-```
-
-This is useful for SaaS and enterprise applications.
-
----
 
 # 🪣 Rate Limiting Algorithm
 
