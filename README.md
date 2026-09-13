@@ -707,5 +707,6 @@ This project demonstrates how **Rate Limiting and Load Balancing can work togeth
 The Rate Limiter controls and protects the system from excessive requests, while the Load Balancer distributes the allowed requests among multiple backend servers.
 
 Together, they provide a foundation for building a **scalable, reliable, and fault-tolerant backend system**.
-#   D i s t r i b u t e d - R a t e - L i m i t e r - L o a d - B a l a n c e r  
+#   D i s t r i b u t e d - R a t e - L i m i t e r - L o a d - B a l a n c e r 
+ 
  
